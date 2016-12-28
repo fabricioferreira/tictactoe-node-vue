@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A tic tac toe game implementation using Node.JS and Vue.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricioferreira/tictactoe-node-vue.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "Fabricio Carvalho Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabricioferreira/tictactoe-node-vue/issues"
+  },
+  "homepage": "https://github.com/fabricioferreira/tictactoe-node-vue#readme"
+}
